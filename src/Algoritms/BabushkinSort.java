@@ -7,5 +7,6 @@ public class BabushkinSort {
      * @since (
      * непрактичные сортивки - бессмысленные и беспощадные - habr.com/post/198114/
      * bogo bozo babushkin check?
+     * мяу)
     **/
 }
