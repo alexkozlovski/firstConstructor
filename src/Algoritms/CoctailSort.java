@@ -5,7 +5,7 @@ import java.util.Random;
 public class CoctailSort {
     public static void main(String[] args) {
         int[] ints=new int[1000];
-
+/*asd*/
         for (int i = 0; i <ints.length ; i++) {
             ints[i]=new Random(System.nanoTime()).nextInt(ints.length*2+1)-ints.length;
         }
