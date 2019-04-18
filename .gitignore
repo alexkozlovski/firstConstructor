@@ -1,0 +1,11 @@
+.idea/*
+.out/*
+src/FirstTry/*
+
+*.class
+*.html
+*.jpg
+*.png
+*.war
+*.jar
+*.ear
