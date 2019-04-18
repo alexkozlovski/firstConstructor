@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.tryYourSelf2.a4tech;
 public class A4techMouse implements A4techProduct {
     @Override
     public void makeProduct() {
-        System.out.println("make A4tech Mouse");
+        System.out.println("makeSpaceXProduct A4tech Mouse");
     }
 }

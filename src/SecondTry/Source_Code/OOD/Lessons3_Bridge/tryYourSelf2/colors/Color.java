@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons3_Bridge.tryYourSelf2.colors;
 public class Color implements Pallete {
     @Override
     public void setColor(String color) {
-        System.out.println("color: "+color);
+        System.out.println("Color: "+color);
     }
 }

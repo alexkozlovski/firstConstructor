@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.tryYourSelf_naGit.As
 public class AsusNoteBook implements AsusProduct {
     @Override
     public void makeProduct() {
-        System.out.println("make Asus notebook");
+        System.out.println("makeSpaceXProduct Asus notebook");
     }
 }

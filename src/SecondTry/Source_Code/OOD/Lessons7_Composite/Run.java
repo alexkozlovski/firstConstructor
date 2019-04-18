@@ -5,6 +5,7 @@ package SecondTry.Source_Code.OOD.Lessons7_Composite;
  */
 public class Run {
     public static void main(String[] args) {
+
         Tree tree=new Tree();
         Stick stick=new Stick();
         Leaf leaf=new Leaf();

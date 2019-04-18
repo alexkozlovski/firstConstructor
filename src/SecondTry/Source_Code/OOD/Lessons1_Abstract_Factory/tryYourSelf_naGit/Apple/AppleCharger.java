@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.tryYourSelf_naGit.Ap
 public class AppleCharger implements AppleProduct {
     @Override
     public void makeProduct() {
-        System.out.println("make Apple charger");
+        System.out.println("makeSpaceXProduct Apple charger");
     }
 }

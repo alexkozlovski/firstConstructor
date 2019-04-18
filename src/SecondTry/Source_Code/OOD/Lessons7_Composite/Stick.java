@@ -7,6 +7,6 @@ public class Stick implements Component{
 
     @Override
     public void show() {
-        System.out.println("show stick");
+        System.out.println("watchImage stick");
     }
 }

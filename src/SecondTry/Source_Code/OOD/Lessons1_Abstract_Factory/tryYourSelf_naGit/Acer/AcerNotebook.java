@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.tryYourSelf_naGit.Ac
 public class AcerNotebook implements AcerProduct {
     @Override
     public void makeProcut() {
-        System.out.println("make Acer Notebooks");
+        System.out.println("makeSpaceXProduct Acer Notebooks");
     }
 }

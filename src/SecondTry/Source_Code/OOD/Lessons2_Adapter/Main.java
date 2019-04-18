@@ -9,19 +9,20 @@ import SecondTry.Source_Code.OOD.Lessons2_Adapter.image.PictureViewer;
 public class Main {
     public static int test1=0;
     public static int test2=0;
-    public Main(){
+/*    public Main(){
+        if(test1>1&&test2>1)return super();
         test1++;
         test2++;
-    }
+    }*/
     public static void main(String[] args) {
-
+//        Main Class2=new Main();Class2=new Main();Class2=new Main();Class2=new Main();
         PictureViewer pictureViewer=new PictureViewer();
         pictureViewer.watchImage("space",".png");
-        pictureViewer.watchImage("admin",".jpeg");
+        pictureViewer.watchImage("cat",".jpeg");
         pictureViewer.watchImage("square",".bmp");
-        pictureViewer.watchImage("animation",".gif");
+        pictureViewer.watchImage("simpleanimation",".gif");
         pictureViewer.watchImage("image",".jpg");
-
+        System.out.println(test1+"  "+test2);
         }
     }
 

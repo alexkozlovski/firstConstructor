@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.tryYourSelf2.logitec
 public class LogitechMouse implements LogitechProduct {
     @Override
     public void makeProduct() {
-        System.out.println("make Logitech Mouse");
+        System.out.println("makeSpaceXProduct Logitech Mouse");
     }
 }

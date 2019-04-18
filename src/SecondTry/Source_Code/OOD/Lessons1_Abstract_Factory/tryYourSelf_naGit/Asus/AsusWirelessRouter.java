@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.tryYourSelf_naGit.As
 public class AsusWirelessRouter implements AsusProduct {
     @Override
     public void makeProduct() {
-        System.out.println("make asus Wireless Router");
+        System.out.println("makeSpaceXProduct asus Wireless Router");
     }
 }

@@ -18,7 +18,7 @@ public class Square extends Drawer {
             case "green":pallete.setColor("green");break;
             case "white":pallete.setColor("white");break;
             default:
-                System.out.println("color: undefined color");
+                System.out.println("Color: undefined Color");
         }
     }
 }

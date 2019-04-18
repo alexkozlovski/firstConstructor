@@ -22,7 +22,7 @@ public class Square extends Drawer{
             case "white":
                 pallete.setColor("blue");break;
                 default:
-                    System.out.println("undefined color");
+                    System.out.println("undefined Color");
 
         }
     }

@@ -9,6 +9,5 @@ public class Run {
                 login("admin").
                 password("root").
                 email("nope").createAccount();
-                account.toString();
     }
 }

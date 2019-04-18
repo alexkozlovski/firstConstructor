@@ -14,7 +14,6 @@ public class Account {
     }
 
     public class Registrar{
-
         public Registrar login(String login){
             System.out.println("Login: "+login);
             Account.this.login=login;

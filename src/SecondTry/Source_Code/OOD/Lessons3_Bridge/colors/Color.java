@@ -7,6 +7,6 @@ public class Color implements Pallete  {
 
     @Override
     public void setColor(String color) {
-        System.out.println("color: "+color);
+        System.out.println("Color: "+color);
     }
 }

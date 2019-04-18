@@ -22,4 +22,6 @@ public class Composite implements Component {
             component.show();
         }
     }
+
+
 }

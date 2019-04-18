@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.addidas;
 public class AdidasShoes implements AdidasProduct {
     @Override
     public void makeAdidasProduct() {
-        System.out.println("make Adidas Shoes");
+        System.out.println("makeSpaceXProduct Adidas Shoes");
     }
 }

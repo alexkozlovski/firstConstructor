@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons7_Composite;
 public class Tree implements Component{
     @Override
     public void show() {
-        System.out.println("show tree");
+        System.out.println("watchImage tree");
     }
 }

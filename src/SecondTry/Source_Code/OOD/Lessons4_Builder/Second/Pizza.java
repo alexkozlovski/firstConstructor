@@ -5,12 +5,12 @@ package SecondTry.Source_Code.OOD.Lessons4_Builder.Second;
  */
 public class Pizza extends Choice {
     @Override
-    public void buildPizzaSause() {
+    public void buildPizzaDough() {
         query.setPizzaDough("XL, thin");
     }
 
     @Override
-    public void buildPizzaDough() {
+    public void buildPizzaSause() {
         query.setPizzaDough("Barbecue");
     }
 

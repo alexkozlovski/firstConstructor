@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.tryYourSelf_naGit.As
 public class AsusMobilePhone implements AsusProduct {
     @Override
     public void makeProduct() {
-        System.out.println("make Asus MobilePhone");
+        System.out.println("makeSpaceXProduct Asus MobilePhone");
     }
 }

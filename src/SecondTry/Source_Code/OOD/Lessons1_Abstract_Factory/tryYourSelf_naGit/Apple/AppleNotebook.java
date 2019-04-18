@@ -6,6 +6,6 @@ package SecondTry.Source_Code.OOD.Lessons1_Abstract_Factory.tryYourSelf_naGit.Ap
 public class AppleNotebook implements AppleProduct {
     @Override
     public void makeProduct() {
-        System.out.println("make apple notebook");
+        System.out.println("makeSpaceXProduct apple notebook");
     }
 }

@@ -49,6 +49,6 @@ public class Account {
     }
     @Override
     public String toString(){
-        return "User №"+this.accountNumber+": [Login: "+this.getLogin()+", "+this.getPassword()+" "+this.getEmail()+"].";
+        return "Mediator №"+this.accountNumber+": [Login: "+this.getLogin()+", "+this.getPassword()+" "+this.getEmail()+"].";
     }
 }
